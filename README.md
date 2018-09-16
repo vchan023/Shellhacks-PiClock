@@ -4,5 +4,5 @@ A clock generated based off of the numbers of Pi. Created by Jonathan Jimenez, V
 run: 
 
 ```python
-python clock.py
+python3 clock.py
 ```
